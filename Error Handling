@@ -1,0 +1,11 @@
+ #Error Handling
+
+Handled for:
+
+invalid message
+
+missing order ID
+
+database errors
+
+AI errors
