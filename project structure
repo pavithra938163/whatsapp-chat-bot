@@ -1,0 +1,24 @@
+whatsapp-ai-bot
+│
+├── server.js
+├── config
+│    └── db.js
+│
+├── services
+│    ├── aiService.js
+│    └── orderService.js
+│
+├── controllers
+│    └── whatsappController.js
+│
+├── routes
+│    └── whatsappRoutes.js
+│
+├── utils
+│    ├── logger.js
+│    └── validation.js
+│
+├── logs
+│    └── ai_logs.json
+│
+└── .env
