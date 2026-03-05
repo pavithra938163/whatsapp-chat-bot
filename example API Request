@@ -1,0 +1,10 @@
+POST /whatsapp/message
+#Body
+{
+"message": "What is the status of my order 1024?"
+}
+#response
+{
+"success": true,
+"reply": "Your order status is: Shipped"
+}
