@@ -1,0 +1,16 @@
+##Features Implemented:
+1 Order Status Queries
+
+Uses database to fetch order status.
+
+2 Return Policy Questions
+
+AI classifies and responds with policy.
+
+3 Escalation for Refund Issues
+
+Refund issues escalate to support.
+
+4 Conversation Logging
+
+All prompts and responses logged.
